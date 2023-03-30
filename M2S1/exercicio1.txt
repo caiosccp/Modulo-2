@@ -1,0 +1,13 @@
+O SQLite suporta os seguintes tipos de colunas:
+
+INTEGER: para armazenar números inteiros.
+REAL: para armazenar números de ponto flutuante (números decimais).
+TEXT: para armazenar strings de texto.
+BLOB: para armazenar dados binários, como imagens, arquivos de áudio ou vídeo.
+NULL: para armazenar valores nulos (ou ausentes).
+Além desses tipos de dados básicos, o SQLite também suporta tipos de colunas adicionais, como:
+
+DATE: para armazenar datas no formato YYYY-MM-DD.
+TIME: para armazenar horários no formato HH:MM:SS.
+TIMESTAMP: para armazenar datas e horários no formato YYYY-MM-DD HH:MM:SS.
+BOOLEAN: para armazenar valores booleanos (verdadeiro ou falso).

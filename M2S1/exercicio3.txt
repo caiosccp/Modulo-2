@@ -1,0 +1,7 @@
+Na tabela “cliente”, não foi informado o tipo das colunas 1. ID, 2. NOME, 3. CPF, 4. DATA_CADASTRO, 5. ENDERECO. Qual seria o tipo ideal para cada uma dessas colunas?
+
+1. ID = INT
+2. NOME = VARCHAR
+3. CPF = VARCHAR
+4. DATA_CADASTRO = DATE
+5. ENDERECO = VARCHAR
